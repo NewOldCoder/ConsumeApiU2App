@@ -1,0 +1,34 @@
+
+<div class="container mt-5">
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col" *ngFor="let video of videos">
+      <div class="card animate__animated animate__zoomIn " style="width: 18rem;">
+        <img [src]="video.thumbnails.high.url" class="card-img-top" [alt]="video.title">
+        <div class="card-body">
+          <h5 class="card-title">{{ video.title }}</h5>
+          <p class="card-text">
+            <strong>Artista / Grupo: </strong>{{ video.title }}
+          </p>
+          <p class="card-text">
+            <strong>Descripción: </strong>{{ video.description }}
+           </p>
+          <!-- <p class="card-text">
+            <strong>Publicado: </strong>{{ video.publishedAt | date }}
+           </p> -->
+           <div class="d-grid gap-2">
+             <button (click)="mostrarVideo( video )" class="btn btn-outline-primary">Ver Video</button>
+           </div>
+        </div>
+      </div>
+    </div>
+   </div>
+</div>
+
+<div class="row mt-5 mb-5 text-center">
+  <div class="col">
+    <button class="btn btn-primary btn-lg"
+            (click)="cargarVideos()">
+      Siguiente pagina
+    </button>
+  </div>
+</div>

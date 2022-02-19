@@ -1,0 +1,196 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "gc1xJ0C2WSR0V1bNbSclYZwIASM",
+    "nextPageToken": "EAAaBlBUOkNBVQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V767N4wlwsBn1Is2XoLrO4LGJfA",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLkF5ZDd0ekhoSkgw",
+            "snippet": {
+                "publishedAt": "2022-01-29T15:20:49Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "DevTalles 050: Remix",
+                "description": "Recuerden que pueden realizar donaciones al programa para ayudarme a seguirlo creando y mantenerlo vivo.\nhttps://www.paypal.com/paypalme/fernandoher85\n\nPueden escuchar este Podcast en cualquier plataforma de PodCasts:\nSpotify: https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5\nGoogle Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YzIyNzM3OC9wb2RjYXN0L3Jzcw==\nApple Podcast: https://podcasts.apple.com/ca/podcast/devtalles/id1553730966\nAnchor: https://anchor.fm/fernando-her85",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ayd7tzHhJH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ayd7tzHhJH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ayd7tzHhJH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ayd7tzHhJH0"
+                },
+                "videoOwnerChannelTitle": "Fernando Herrera",
+                "videoOwnerChannelId": "UCuaPTYj15JSkETGnEseaFFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dKOVgrtB2-PD7MsxlnMxCDGqqXA",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLkJmMlg3RWgtMlBN",
+            "snippet": {
+                "publishedAt": "2022-01-22T16:24:19Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "049- DevTalles: El estado del ecosistema de desarrolladores 2021",
+                "description": "Recuerden que pueden realizar donaciones al programa para ayudarme a seguirlo creando y mantenerlo vivo.\nhttps://www.paypal.com/paypalme/fernandoher85\n\nPueden escuchar este Podcast en cualquier plataforma de PodCasts:\nSpotify: https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5\nGoogle Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YzIyNzM3OC9wb2RjYXN0L3Jzcw==\nApple Podcast: https://podcasts.apple.com/ca/podcast/devtalles/id1553730966\nAnchor: https://anchor.fm/fernando-her85",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bf2X7Eh-2PM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bf2X7Eh-2PM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bf2X7Eh-2PM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Bf2X7Eh-2PM"
+                },
+                "videoOwnerChannelTitle": "Fernando Herrera",
+                "videoOwnerChannelId": "UCuaPTYj15JSkETGnEseaFFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yC4fO-RX5IF-QAAE0qCMBqesnjE",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLm9GbkVDcFhqT1dv",
+            "snippet": {
+                "publishedAt": "2022-01-15T16:39:54Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "DevTalles 048 -  Temario de Diplomado sobre desarrollo web en Canadá",
+                "description": "Recuerden que pueden realizar donaciones al programa para ayudarme a seguirlo creando y mantenerlo vivo.\nhttps://www.paypal.com/paypalme/fernandoher85\n\nPueden escuchar este Podcast en cualquier plataforma de PodCasts:\nSpotify: https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5\nGoogle Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YzIyNzM3OC9wb2RjYXN0L3Jzcw==\nApple Podcast: https://podcasts.apple.com/ca/podcast/devtalles/id1553730966\nAnchor: https://anchor.fm/fernando-her85",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oFnECpXjOWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oFnECpXjOWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oFnECpXjOWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oFnECpXjOWo"
+                },
+                "videoOwnerChannelTitle": "Fernando Herrera",
+                "videoOwnerChannelId": "UCuaPTYj15JSkETGnEseaFFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kXowF95Q0wzF_2ObvA2kfuFBdks",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLkMyMVU2Nk9mOXdv",
+            "snippet": {
+                "publishedAt": "2022-01-08T19:41:33Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "DevTalles 047: ¿Crear un curso en línea? Ideas y errores comunes",
+                "description": "Recuerden que pueden realizar donaciones al programa para ayudarme a seguirlo creando y mantenerlo vivo.\nhttps://www.paypal.com/paypalme/fernandoher85\n\nPueden escuchar este Podcast en cualquier plataforma de PodCasts:\nSpotify: https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5\nGoogle Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YzIyNzM3OC9wb2RjYXN0L3Jzcw==\nApple Podcast: https://podcasts.apple.com/ca/podcast/devtalles/id1553730966\nAnchor: https://anchor.fm/fernando-her85",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C21U66Of9wo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C21U66Of9wo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C21U66Of9wo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C21U66Of9wo"
+                },
+                "videoOwnerChannelTitle": "Fernando Herrera",
+                "videoOwnerChannelId": "UCuaPTYj15JSkETGnEseaFFg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k8gAxcYT5mT9f1y7J-nJMsahLmg",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLk9TVmNEazdHMGcw",
+            "snippet": {
+                "publishedAt": "2022-01-01T17:04:41Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "46-DevTalles - Log4j: Vulnerabilidad",
+                "description": "Recuerden que pueden realizar donaciones al programa para ayudarme a seguirlo creando y mantenerlo vivo.\nhttps://www.paypal.com/paypalme/fernandoher85\n\nPueden escuchar este Podcast en cualquier plataforma de PodCasts:\nSpotify: https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5\nGoogle Podcasts: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YzIyNzM3OC9wb2RjYXN0L3Jzcw==\nApple Podcast: https://podcasts.apple.com/ca/podcast/devtalles/id1553730966\nAnchor: https://anchor.fm/fernando-her85",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OSVcDk7G0g0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OSVcDk7G0g0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OSVcDk7G0g0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OSVcDk7G0g0"
+                },
+                "videoOwnerChannelTitle": "Fernando Herrera",
+                "videoOwnerChannelId": "UCuaPTYj15JSkETGnEseaFFg"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 820,
+        "resultsPerPage": 5
+    }
+}
